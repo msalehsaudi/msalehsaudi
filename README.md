@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msalehsaudi&label=Profile%20views&color=0e75b6&style=flat" alt="msalehsaudi" /> </p>
 
-- 🔭 I’m currently working on [Classification of cars' tiers](https://github.com/msalehsaudi/Autoscout24)
+- 🔭 I’m currently working on [Classification of cars' tiers](https://github.com/msalehsaudi/Autoscout24).
 
 - 🌱 I’m currently learning **Business analyst career path.**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/msalehsaudi?tab=repositories)
+- 👨‍💻 All of my projects are available at [github](https://github.com/msalehsaudi?tab=repositories).
 
 - 💬 Ask me about **Machine learning, Deep learning, Statistics, Time series models, multi-variate forecasting, and predictions.**
 
-- 📫 How to reach me **m.saleh.saudi@gmail.com**
+- 📫 How to reach me **m.saleh.saudi@gmail.com**.
 
-- 📄 You can find my CV [here](https://drive.google.com/file/d/1uVAoDp7VkRuO9bUpOoz7f_ZF6QWCeKI5/view?usp=sharing)
+- 📄 You can find my CV [here](https://drive.google.com/file/d/1uVAoDp7VkRuO9bUpOoz7f_ZF6QWCeKI5/view?usp=sharing).
 
 
 <h3 align="left">Connect with me:</h3>
