@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Saleh</h1>
-<h3 align="center">A passionate Data scientist/analyst in Germany</h3>
+<h3 align="center">A passionate Data scientist/analyst based in Berlin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msalehsaudi&label=Profile%20views&color=0e75b6&style=flat" alt="msalehsaudi" /> </p>
 
