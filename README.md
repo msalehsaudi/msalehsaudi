@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uVAoDp7VkRuO9bUpOoz7f_ZF6QWCeKI5/view?usp=sharing](https://drive.google.com/file/d/1uVAoDp7VkRuO9bUpOoz7f_ZF6QWCeKI5/view?usp=sharing)
 
-- ⚡ Fun fact **My weak sense of smell made me able to eat everything**
+- ⚡ Fun fact **my weak sense of smell made me able to eat everything. :D **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
