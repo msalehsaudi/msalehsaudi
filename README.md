@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **m.saleh.saudi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uVAoDp7VkRuO9bUpOoz7f_ZF6QWCeKI5/view?usp=sharing](https://drive.google.com/file/d/1uVAoDp7VkRuO9bUpOoz7f_ZF6QWCeKI5/view?usp=sharing)
+- 📄 You can find my CV here [https://drive.google.com/file/d/1uVAoDp7VkRuO9bUpOoz7f_ZF6QWCeKI5/view?usp=sharing](https://drive.google.com/file/d/1uVAoDp7VkRuO9bUpOoz7f_ZF6QWCeKI5/view?usp=sharing)
 
 - ⚡ Fun fact **my weak sense of smell made me able to eat everything.**
 
