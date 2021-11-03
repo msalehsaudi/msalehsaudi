@@ -7,15 +7,14 @@
 
 - 🌱 I’m currently learning **Business analyst career path.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/msalehsaudi?tab=repositories](https://github.com/msalehsaudi?tab=repositories)
+- 👨‍💻 All of my projects are available at [github](https://github.com/msalehsaudi?tab=repositories)
 
 - 💬 Ask me about **Machine learning, Deep learning, Statistics, Time series models, multi-variate forecasting, and predictions.**
 
 - 📫 How to reach me **m.saleh.saudi@gmail.com**
 
-- 📄 You can find my CV here [https://drive.google.com/file/d/1uVAoDp7VkRuO9bUpOoz7f_ZF6QWCeKI5/view?usp=sharing](https://drive.google.com/file/d/1uVAoDp7VkRuO9bUpOoz7f_ZF6QWCeKI5/view?usp=sharing)
+- 📄 You can find my CV [here](https://drive.google.com/file/d/1uVAoDp7VkRuO9bUpOoz7f_ZF6QWCeKI5/view?usp=sharing)
 
-- ⚡ Fun fact **my weak sense of smell made me able to eat everything.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
