@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/msalehsaudi?tab=repositories).
 
-- 💬 Ask me about **Machine learning, Deep learning, Statistics, Time series models, multi-variate forecasting, and predictions.**
+- 💬 Ask me about **Data science, Statistics, Data analysis, or Data Visualization.**
 
 - 📫 How to reach me **m.saleh.saudi@gmail.com**.
 
