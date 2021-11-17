@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Classification of cars' tiers](https://github.com/msalehsaudi/Autoscout24).
 
-- 🌱 I’m currently learning **Business analyst career path.**
+- 🌱 I’m currently learning **NLP career path on deeplearning.ai .**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/msalehsaudi?tab=repositories).
 
