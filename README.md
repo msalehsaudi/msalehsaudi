@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msalehsaudi&label=Profile%20views&color=0e75b6&style=flat" alt="msalehsaudi" /> </p>
 
-- 🔭 I’m currently working on [Classification of cars' tiers](https://github.com/msalehsaudi/Autoscout24).
+- 🔭 I’m currently working on Machine Learning Cross-Skilling Nanodegree Program.
 
 - 🌱 I’m currently learning **NLP career path on deeplearning.ai .**
 
