@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **m.saleh.saudi@gmail.com**.
 
-- 📄 You can find my CV [here](https://drive.google.com/file/d/1PCLXNq_96ravHZhg8DUrIF7--N5JBkpx/view?usp=sharing).
+- 📄 You can find my CV [here](https://drive.google.com/file/d/1qdcemB5_1QivrdIpN5vlQ9Q5RpiwDjCL/view?usp=sharing).
 
 
 <h3 align="left">Connect with me:</h3>
